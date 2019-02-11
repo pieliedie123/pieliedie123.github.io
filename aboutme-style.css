@@ -1,0 +1,33 @@
+h1{
+	color: green;
+	text-align: center;
+	font-family: Verdana;
+}
+.center{
+	text-align: center;
+	background-color: #9df2ef;
+}
+.container{
+	text-align: center;
+	font-family: Arial;
+}
+b{
+	color: red;
+}
+h2{
+	font-weight: 100;
+	color: orange;
+}
+h3{
+	color: white;
+}
+a:hover{
+	font-size: 16px;
+	color: #d60c31;
+	text-decoration: none;
+}
+a:visited{
+	font-size: 16px;
+	color: #17c130;
+	text-decoration: none;
+}
